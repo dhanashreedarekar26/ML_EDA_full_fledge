@@ -132,3 +132,23 @@ Map([<Rule '/static/<filename>' (OPTIONS, HEAD, GET) -> static>,
 2026-08-08 14:35:38,152 - src.reports - INFO - Generated evaluation figures in: 'C:\Users\User\OneDrive\Desktop\Sab Kuch\ML Projects\ML_EDA_full_fledge\reports\random_forest\figures'
 2026-08-08 14:35:38,575 - src.reports - INFO - Saved evaluation metrics to: 'C:\Users\User\OneDrive\Desktop\Sab Kuch\ML Projects\ML_EDA_full_fledge\reports\xgboost\metrics.json'
 2026-08-08 14:35:42,209 - src.reports - INFO - Generated evaluation figures in: 'C:\Users\User\OneDrive\Desktop\Sab Kuch\ML Projects\ML_EDA_full_fledge\reports\xgboost\figures'
+2026-08-08 14:59:04,452 - src.modeling.train - INFO - Loading processed dataset artifacts...
+2026-08-08 14:59:05,632 - src.modeling.train - INFO - Training Logistic Regression Classifier...
+2026-08-08 14:59:13,907 - src.modeling.train - INFO - Training Random Forest Classifier...
+2026-08-08 14:59:18,857 - src.modeling.train - INFO - Training XGBoost Classifier...
+2026-08-08 14:59:19,830 - src.modeling.train - INFO - ================================================================================
+2026-08-08 14:59:19,831 - src.modeling.train - INFO - MODEL TRAINING & EVALUATION RESULTS
+2026-08-08 14:59:19,831 - src.modeling.train - INFO - ================================================================================
+2026-08-08 14:59:19,832 - src.modeling.train - INFO - Logistic Regression | Test ROC-AUC: 0.8459 | Test PR-AUC: 0.7731
+2026-08-08 14:59:19,833 - src.modeling.train - INFO - Random Forest       | Test ROC-AUC: 0.8851 | Test PR-AUC: 0.8271
+2026-08-08 14:59:19,833 - src.modeling.train - INFO - XGBoost             | Test ROC-AUC: 0.8894 | Test PR-AUC: 0.8384
+2026-08-08 14:59:19,834 - src.modeling.train - INFO - ================================================================================
+2026-08-08 14:59:19,841 - src.modeling.train - INFO - Saved Logistic Regression model to: C:\Users\User\OneDrive\Desktop\Sab Kuch\ML Projects\ML_EDA_full_fledge\models\model_logistic_regression_20260808092919.joblib
+2026-08-08 14:59:19,954 - src.modeling.train - INFO - Saved Random Forest model to: C:\Users\User\OneDrive\Desktop\Sab Kuch\ML Projects\ML_EDA_full_fledge\models\model_random_forest_20260808092919.joblib
+2026-08-08 14:59:19,990 - src.modeling.train - INFO - Saved XGBoost model to: C:\Users\User\OneDrive\Desktop\Sab Kuch\ML Projects\ML_EDA_full_fledge\models\model_xgboost_20260808092919.joblib
+2026-08-08 14:59:20,300 - src.reports - INFO - Saved evaluation metrics to: 'C:\Users\User\OneDrive\Desktop\Sab Kuch\ML Projects\ML_EDA_full_fledge\reports\logistic_regression\metrics.json'
+2026-08-08 14:59:22,842 - src.reports - INFO - Generated evaluation figures in: 'C:\Users\User\OneDrive\Desktop\Sab Kuch\ML Projects\ML_EDA_full_fledge\reports\logistic_regression\figures'
+2026-08-08 14:59:23,351 - src.reports - INFO - Saved evaluation metrics to: 'C:\Users\User\OneDrive\Desktop\Sab Kuch\ML Projects\ML_EDA_full_fledge\reports\random_forest\metrics.json'
+2026-08-08 14:59:26,354 - src.reports - INFO - Generated evaluation figures in: 'C:\Users\User\OneDrive\Desktop\Sab Kuch\ML Projects\ML_EDA_full_fledge\reports\random_forest\figures'
+2026-08-08 14:59:26,754 - src.reports - INFO - Saved evaluation metrics to: 'C:\Users\User\OneDrive\Desktop\Sab Kuch\ML Projects\ML_EDA_full_fledge\reports\xgboost\metrics.json'
+2026-08-08 14:59:29,400 - src.reports - INFO - Generated evaluation figures in: 'C:\Users\User\OneDrive\Desktop\Sab Kuch\ML Projects\ML_EDA_full_fledge\reports\xgboost\figures'

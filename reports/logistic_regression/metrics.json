@@ -1,14 +1,14 @@
 {
-  "ROC_AUC": 0.846,
-  "PR_AUC": 0.773,
-  "Accuracy": 0.8336,
-  "Precision": 0.6638,
-  "Recall": 0.6578,
-  "F1_Score": 0.6608,
+  "ROC_AUC": 0.8459,
+  "PR_AUC": 0.7731,
+  "Accuracy": 0.8335,
+  "Precision": 0.6636,
+  "Recall": 0.6575,
+  "F1_Score": 0.6605,
   "Confusion_Matrix": {
-    "True_Negative": 19965,
-    "False_Positive": 2441,
-    "False_Negative": 2508,
-    "True_Positive": 4820
+    "True_Negative": 19964,
+    "False_Positive": 2442,
+    "False_Negative": 2510,
+    "True_Positive": 4818
   }
 }
