@@ -1,0 +1,14 @@
+{
+  "ROC_AUC": 0.8894,
+  "PR_AUC": 0.8384,
+  "Accuracy": 0.8966,
+  "Precision": 0.9141,
+  "Recall": 0.6406,
+  "F1_Score": 0.7533,
+  "Confusion_Matrix": {
+    "True_Negative": 21965,
+    "False_Positive": 441,
+    "False_Negative": 2634,
+    "True_Positive": 4694
+  }
+}
